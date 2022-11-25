@@ -12,7 +12,8 @@ And the second one is the AI, that manage the Keras model, the training and the 
 To use the application, run main.py
 
 ### The app
-The application look like that:
+The application look like that:  
+![alt text](https://github.com/MrBounty/Digit-Recognizer---Python-Keras/blob/main/Screenshot%202022-11-25%20132526.png)
 
 ### To train an AI
 Use both button "Open the train file" and "Open the test file" to load the dataset dw on kaggle.  
